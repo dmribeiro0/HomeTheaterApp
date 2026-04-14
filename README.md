@@ -1,3 +1,5 @@
+> Obs: Esse projeto é um exemplo de implementação do padrão Facade em um sistema de Home Theater. Foi desenvolvido durante a disciplina de Projeto Orientado a Objeto na Universidade Federal de São Paulo (UNIFESP - SJC).
+
 # Padrão Facade em um Home Theater
 
 Uma empresa deseja desenvolver um sistema para controlar um Home Theater composto por vários equipamentos, como TV,
